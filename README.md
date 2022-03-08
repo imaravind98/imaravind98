@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imaravind98
 - 👀 I’m interested in web applications
-- 🌱 I’m currently learning various js libraries such as knockoutjs
+- 🌱 I’m currently learning vueJs
 - 📫 How to reach me ponaravindwork98@gmail.com
 
 <!---
