@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imaravind98
-- 👀 I’m interested in web applications
-- 🌱 I’m currently learning vueJs
+- 👀 I’m Web Application Developer
+- 🌱 Skilled in servers, backend(php), frontend(vue) and web fundamentals.
 - 📫 How to reach me ponaravindwork98@gmail.com
 
 <!---
